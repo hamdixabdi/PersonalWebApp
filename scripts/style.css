@@ -1,71 +1,204 @@
-.flex-container1
-        {
-            display:flex ;
-            flex-direction:column;
-            flex-wrap: wrap ;
-        }
-        .flex-item
-        {
-            padding: 10 px;
-            border: 5px solid #CCCCCC;
-            width: 300 px ;
-            margin-bottom:20px;
-        }
-        .flex-container2
-        {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            
-        }
-          .flex-item2
-          {
-            width: 400px;
-            height: 500px;
-            padding: 10px;
-            border: 5px solid #CCCCCC;
-            margin-top:15px;
-            margin-right:25px;
-          }
-       
-        
-          .flex-item3
-          {
-            width: 400px;
-            height: 500px;
-            padding: 10 px;
-            border: 5px solid #CCCCCC;
-             margin-right:25px;
-            
-          }
-         .flex-item4
-          {
-            width: 400px;
-            height: 500px;
-            padding: 10 px;
-             margin-right:25px;
-            border: 5px solid #CCCCCC;
-          }
-           /* skill.html
-          */
-          
-        .flex-item5
-        {
-           padding: 10 px;
-           border: 5px solid #CCCCCC;
-           width: 300 px ;
-           margin-bottom:20px;
-           text-align:center;
-       }    
+h2 {
+  color:white;
+  font-style:italic;
+  font-size:50px;
+}
 body{
-    background-color:#bc8f8f;
+  background-color:#bc8f8f;
+}
+/*
+index.html
+*/
+.intro{
+  text-align:center;
+}
+.flex-container1
+      {
+          display:flex ;
+          flex-direction:column;
+          flex-wrap: wrap ;
+      }
+      .flex-item
+      {
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+          width: 300 px ;
+          margin-bottom:20px;
+      }
+      .flex-container2
+      {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          
+      }
+        .flex-item2
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10px;
+          border: 5px solid #CCCCCC;
+          margin-top:15px;
+          margin-right:25px;
+        }
+     
+      
+        .flex-item3
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+          
+        }
+       .flex-item4
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+           margin-right:25px;
+          border: 5px solid #CCCCCC;
+        }
+        /* skill.html
+        */
+        
+         .flex-item5
+      {
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+          width: 300 px ;
+          margin-bottom:20px;
+          text-align:center;
+      }
+      
+       .flex-container3
+      {
+          display: flex;
+          align-items: center;
+          justify-content:center;
+      }
+        .flex-item6
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+        .flex-item7
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+          
+        }
+         .flex-item8
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+          
+        }
+        
+
+
+.img1
+{
+  /*
+      place the photo on the sides of flex item5 " my skill set"
+  */
+}
+img2
+{
+   transform: rotate(180deg); 
+}
+ul li
+{
+  font-size:25px;
 }
 
-h2 {
-    color:white;
-    font-style:italic;
-    font-size:50px;
-}
-.intro{
-    text-align:center;
-}
+/* about.html
+*/
+ .flex-container4
+      {
+          display: flex;
+          align-items: center;
+          justify-content:center;
+      }
+      
+      .flex-item9
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+        .flex-item10
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+        .flex-item11
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+
+  /* exper.html
+  */
+      .flex-container5
+      {
+          display: flex;
+          align-items: center;
+          justify-content:center;
+      }
+         .flex-item12
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+        .flex-item13
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
+        .flex-item14
+        {
+          width: 400px;
+          height: 500px;
+          padding: 10 px;
+          border: 5px solid #CCCCCC;
+           margin-right:25px;
+           
+          
+        }
