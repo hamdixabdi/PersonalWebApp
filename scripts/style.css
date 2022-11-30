@@ -1,3 +1,12 @@
+.flex-itemg
+{
+    padding: 10 px;
+    align-items: center;
+    justify-content: center;
+    width: 300 px ;
+    margin-bottom:20px;
+}
+
 h2 {
   color:white;
   font-style:italic;
